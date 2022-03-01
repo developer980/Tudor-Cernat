@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @developer980
-- 👀 I’m interested in apps and games developement for mobile
-- 🌱 I’m currently learning apps developing
-- 💞️ I’m looking to collaborate on various projects
+- 👀 I am currently a student who is interested in apps and games developement for mobile, and also in web developement
+- 🌱 I’m currently learning web apps developing
+- 💞️ I am excited about working and collaborating in various projects and also learning new stuff
 - 📫 How to reach me: facebook: https://www.facebook.com/tudor.cernat.50/
                        email: tudordin2002@gmail.com
 
