@@ -1,7 +1,7 @@
 - 👋 Hello! I’m Tudor Cernat
-- 👀 I am currently a student who is interested in programming and technology, who gets excited about learning new things and come up with new ideas
-- 🌱 I’m currently learning web apps developing
-- 💞️ I am excited about working and collaborating in various projects and also learning new stuff :)
+- 👀 I am currently a student who is fascinated about programming and technology
+- 🌱 I am currently looking for an opportunity to start an exceptional career in web developing.
+- 💞️ I am excited about working and collaborating on various projects, learning and discovering new things:)
 - 📫 How to reach me: Email: tudordin2002@gmail.com
                         LinkedIn:https://www.linkedin.com/in/tudor-cernat-9b5743217/
 
