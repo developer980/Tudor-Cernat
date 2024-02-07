@@ -3,7 +3,7 @@
 - 🌱 I am currently looking for an opportunity to start an exceptional career in web developing.
 - 💞️ I am excited about working and collaborating on various projects, learning and discovering new things:)
 - 📫 How to reach me: 
-    - Email: tudordin2002@gmail.com
+    - Email: tudorcernat22@gmail.com
     - LinkedIn:https://www.linkedin.com/in/tudor-cernat-9b5743217/
 
 <!---
